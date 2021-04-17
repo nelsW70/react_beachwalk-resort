@@ -2,7 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 import { setColor, setFont } from '../../styles';
 
 const Globals = createGlobalStyle`
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap&family=Lato:wght@400;700&display=swap');
 
 * {
   margin: 0;
