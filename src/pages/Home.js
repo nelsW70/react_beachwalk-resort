@@ -5,11 +5,11 @@ import Rooms from '../components/home/Rooms';
 
 const Home = () => {
   return (
-    <div>
+    <>
       <Header />
       <About />
       <Rooms />
-    </div>
+    </>
   );
 };
 
