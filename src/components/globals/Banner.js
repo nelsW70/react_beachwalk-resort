@@ -48,6 +48,7 @@ const BannerWrapper = styled(Banner)`
   text-align: center;
   padding: ${setRem(60)} ${setRem(32)};
   ${setLetterSpacing(3)};
+  border-radius: 5px;
 
   color: ${setColor.mainWhite};
   h1 {
