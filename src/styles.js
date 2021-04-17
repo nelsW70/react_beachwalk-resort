@@ -5,7 +5,7 @@ export const setColor = {
   mainWhite: '#fff',
   mainBlack: '#222',
   mainGrey: '#ececec',
-  lightGrey: '#f7f7f7f',
+  lightGrey: '#f7f7f7',
 };
 
 export const setFont = {
