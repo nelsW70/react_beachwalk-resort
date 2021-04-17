@@ -28,4 +28,5 @@ export const PrimaryBtn = styled.button`
       props.mLeft || 0
     }}`};
   text-decoration: none;
+  cursor: pointer;
 `;
